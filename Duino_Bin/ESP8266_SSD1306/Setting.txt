@@ -1,0 +1,11 @@
+AP= "RossFall Minner"
+
+Password="Duino-Coin"
+
+SCL =GPIO5 (D2 on ESP8266) 
+
+SDA =GPIO4 (D1 on ESP8266) 
+
+Vcc= 3.3v
+
+GND=GND

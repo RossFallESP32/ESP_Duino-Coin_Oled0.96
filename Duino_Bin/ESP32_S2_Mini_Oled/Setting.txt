@@ -1,0 +1,10 @@
+AP= "RossFall Minner"
+
+Password="Duino-Coin"
+
+SCL =GPIO35 (ESP32-S2)
+SDA =GPIO33 (ESP32-S2)
+
+Vcc= 3.3v
+
+GND=GND

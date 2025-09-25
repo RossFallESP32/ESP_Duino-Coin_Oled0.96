@@ -1,0 +1,3 @@
+AP= "RossFall Minner"
+
+Password="Duino-Coin"
